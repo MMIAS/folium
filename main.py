@@ -21,5 +21,15 @@ folium.Marker([-6.990593, 110.423723], popup='<i>ATM Bank BJB Citraland Semarang
 folium.Marker([-6.975235, 110.426991], popup='<i>Bank Sinarmas</i>').add_to(m)
 folium.Marker([-6.968443, 110.425948], popup='<i>Kota Lama Semarang</i>').add_to(m)
 folium.Marker([-6.948832, 110.389341], popup='<i>Pantai Marina</i>').add_to(m)
+folium.Marker([-7.025329, 110.434279], popup='<i>Water Blaster Golf Residance</i>').add_to(m)
+folium.Marker([-7.025281, 110.438463], popup='<i>Graha Candi Golf Club</i>').add_to(m)
+folium.Marker([-7.028361, 110.434418], popup='<i>Sekolah Menengah Pertama Negeri 17 Semarang</i>').add_to(m)
+folium.Marker([-7.030011, 110.432669], popup='<i>Area Hijau Jangli</i>').add_to(m)
+folium.Marker([-7.028009, 110.428512], popup='<i>Pasar Jangli</i>').add_to(m)
+folium.Marker([-7.026490, 110.428356], popup='<i>Bank Rakyat Indonesia</i>').add_to(m)
+folium.Marker([-7.026748, 110.427895], popup='<i>Kantor Kecamatan Candisari</i>').add_to(m)
+folium.Marker([-7.026913, 110.426980], popup='<i>Masjid Al - Falah</i>').add_to(m)
+folium.Marker([-7.026512, 110.425025], popup='<i>Satya Wirawicaksana</i>').add_to(m)
+folium.Marker([-7.024912, 110.424427], popup='<i>Inara Tour Travel</i>').add_to(m)
 
 m
