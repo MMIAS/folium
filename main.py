@@ -33,3 +33,26 @@ folium.Marker([-7.026512, 110.425025], popup='<i>Satya Wirawicaksana</i>').add_t
 folium.Marker([-7.024912, 110.424427], popup='<i>Inara Tour Travel</i>').add_to(m)
 
 m
+
+import folium
+ 
+ilga = folium.Map(
+     location=[-7.024245, 110.418597],
+     zoom_start=12,
+     tiles='Stamen Terrain'
+ )
+ 
+tooltip = 'Click me!'
+ 
+folium.Marker([-7.024245, 110.418597], popup='<i>Karangrejo</i>').add_to(ilga)
+folium.Marker([-7.038990, 110.410235], popup='<i>Gombel Golf Semarang</i>').add_to(ilga)
+folium.Marker([-7.051899, 110.400286], popup='<i>Lapangan Atletik UNNES</i>').add_to(ilga)
+folium.Marker([-7.047619, 110.394267], popup='<i>Masjid Ulul Albab</i>').add_to(ilga)
+folium.Marker([-7.049780, 110.392475], popup='<i>Universitar Library UNNES</i>').add_to(ilga)
+folium.Marker([-7.046894, 110.394556], popup='<i>Lapangan Banaran</i>').add_to(ilga)
+folium.Marker([-7.045276, 110.392518], popup='<i>Citra Garden</i>').add_to(ilga)
+folium.Marker([-7.044658, 110.391273], popup='<i>Planet ban Hemat</i>').add_to(ilga)
+folium.Marker([-7.044839, 110.391906], popup='<i>The T-co</i>').add_to(ilga)
+folium.Marker([-7.042646, 110.388612], popup='<i>Ayodya</i>').add_to(ilga)
+ 
+ilga
