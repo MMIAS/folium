@@ -51,6 +51,16 @@ folium.Marker([-7.000149, 110.458908], popup='<i>SD ISLAM PRIMADANA</i>').add_to
 folium.Marker([-7.002340, 110.461924], popup='<i>SMP ISLAM TERPADU PAPB</i>').add_to(m)
 folium.Marker([-7.003860, 110.459362], popup='<i>Rumah Bersalin Citra Insani</i>').add_to(m)
 folium.Marker([-7.002099, 110.454033], popup='<i>Masjid Baitun Nur</i>').add_to(m)
+folium.Marker([-6.972907, 110.436526], popup='<i>Panti Sosial Tresna Werdha Bethany Bala Keselamatan</i>').add_to(m)
+folium.Marker([-6.972552, 110.435656], popup='<i>PT. Mutual Medica</i>').add_to(m)
+folium.Marker([-6.972278, 110.435331], popup='<i>Lapis Legit Niki Sae</i>').add_to(m)
+folium.Marker([-6.972374, 110.436377], popup='<i>Vanni Bengkel</i>').add_to(m)
+folium.Marker([-6.971751, 110.436136], popup='<i>Kumon Indonesia-Senjoyo Indah</i>').add_to(m)
+folium.Marker([-6.971985, 110.435425], popup='<i>Lina Catering</i>').add_to(m)
+folium.Marker([-6.971884, 110.434910], popup='<i>Petruk Mie Jowo</i>').add_to(m)
+folium.Marker([-6.972172, 110.434577], popup='<i>Ayam Goreng Rasa Sama</i>').add_to(m)
+folium.Marker([-6.972957, 110.436849], popup='<i>Toko Tiara</i>').add_to(m)
+folium.Marker([-6.972864, 110.436577], popup='<i>Omah Sae</i>').add_to(m)
 
 m
 
