@@ -61,6 +61,17 @@ folium.Marker([-6.971884, 110.434910], popup='<i>Petruk Mie Jowo</i>').add_to(m)
 folium.Marker([-6.972172, 110.434577], popup='<i>Ayam Goreng Rasa Sama</i>').add_to(m)
 folium.Marker([-6.972957, 110.436849], popup='<i>Toko Tiara</i>').add_to(m)
 folium.Marker([-6.972864, 110.436577], popup='<i>Omah Sae</i>').add_to(m)
+folium.Marker([-7.020742, 110.374764], popup='<i>Universitas Wahid Hasyim Fak. Kedokteran</i>').add_to(m)
+folium.Marker([-7.025518, 110.374587], popup='<i>Green Farm</i>').add_to(m)
+folium.Marker([-7.025326, 110.372017], popup='<i>RS B. Permata Sari</i>').add_to(m)
+folium.Marker([-7.038576, 110.351016], popup='<i>Obyek Wisata Goa Kreo</i>').add_to(m)
+folium.Marker([-7.061661, 110.365337], popup='<i>Dinas Kesehatan Kota Semarang</i>').add_to(m)
+folium.Marker([-7.051362, 110.438237], popup='<i>Teknik Arsitektur Undip</i>').add_to(m)
+folium.Marker([-7.051192, 110.436000], popup='<i>Fakultas Hukum Universitas Diponegoro</i>').add_to(m)
+folium.Marker([-7.052321, 110.435528], popup='<i>Politeknik Negeri Semarang (POLINES)</i>').add_to(m)
+folium.Marker([-7.054382, 110.432555], popup='<i>SPBU Undip</i>').add_to(m)
+folium.Marker([-7.054964, 110.428407], popup='<i>Poltekkes Kemenkes Semarang</i>').add_to(m)
+folium.Marker([-7.054607, 110.429340], popup='<i>Jurusan Keperawatan Gigi</i>').add_to(m)
 
 m
 
