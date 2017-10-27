@@ -41,6 +41,16 @@ folium.Marker([-7.045276, 110.392518], popup='<i>Citra Garden</i>').add_to(m)
 folium.Marker([-7.044658, 110.391273], popup='<i>Planet ban Hemat</i>').add_to(m)
 folium.Marker([-7.044839, 110.391906], popup='<i>The T-co</i>').add_to(m)
 folium.Marker([-7.042646, 110.388612], popup='<i>Ayodya</i>').add_to(m)
+folium.Marker([-6.994899, 110.461150], popup='<i>Harian Semarang</i>').add_to(m)
+folium.Marker([-6.995750, 110.455224], popup='<i>Sekolah Dasar Negeri Kalicari 02</i>').add_to(m)
+folium.Marker([-6.992854, 110.455271], popup='<i>Omah Gading Guest House</i>').add_to(m)
+folium.Marker([-6.996453, 110.461376], popup='<i>Sekolah Tinggi Maritim dan Transpor AMNI</i>').add_to(m)
+folium.Marker([-6.997071, 110.463017], popup='<i>BPJS Ketenagakerjaan Kantor Cab Smg II</i>').add_to(m)
+folium.Marker([-6.998328, 110.463961], popup='<i>Coca-Cola Amatil Indonesia</i>').add_to(m)
+folium.Marker([-7.000149, 110.458908], popup='<i>SD ISLAM PRIMADANA</i>').add_to(m)
+folium.Marker([-7.002340, 110.461924], popup='<i>SMP ISLAM TERPADU PAPB</i>').add_to(m)
+folium.Marker([-7.003860, 110.459362], popup='<i>Rumah Bersalin Citra Insani</i>').add_to(m)
+folium.Marker([-7.002099, 110.454033], popup='<i>Masjid Baitun Nur</i>').add_to(m)
 
 m
 
