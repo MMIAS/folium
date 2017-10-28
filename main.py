@@ -150,7 +150,7 @@ folium.RegularPolygonMarker(
     popup='PT PLN Persero Pusat Manajemen Konstruksi',
     fill_color='#769d96',
     number_of_sides=8,
-    radius=10qq
+    radius=10
     ).add_to(m)
 m
 
