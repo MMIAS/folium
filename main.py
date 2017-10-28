@@ -72,6 +72,16 @@ folium.Marker([-7.052321, 110.435528], popup='<i>Politeknik Negeri Semarang (POL
 folium.Marker([-7.054382, 110.432555], popup='<i>SPBU Undip</i>').add_to(m)
 folium.Marker([-7.054964, 110.428407], popup='<i>Poltekkes Kemenkes Semarang</i>').add_to(m)
 folium.Marker([-7.054607, 110.429340], popup='<i>Jurusan Keperawatan Gigi</i>').add_to(m)
+folium.Marker([-7.058942, 110.488909], popup='<i>Brown Canyon</i>').add_to(m)
+folium.Marker([-6.966962, 110.427719], popup='<i>Badan Pusat Statistik Kabupaten Semarang</i>').add_to(m)
+folium.Marker([-6.967340, 110.426914], popup='<i>Taman Garuda</i>').add_to(m)
+folium.Marker([-6.983949, 110.410367], popup='<i>Lawang Sewu</i>').add_to(m)
+folium.Marker([-6.984479, 110.410831], popup='<i>Dp Mall Maxx Coffe</i>').add_to(m)
+folium.Marker([-6.989198, 110.406663], popup='<i>Gereja Sub Tutela Matris</i>').add_to(m)
+folium.Marker([-7.130024, 110.389404], popup='<i>Watu Gunung</i>').add_to(m)
+folium.Marker([-7.129313, 110.384602], popup='<i>Kolam Renang Bukit Lereng Indah</i>').add_to(m)
+folium.Marker([-7.151226, 110.398894], popup='<i>Glory Face Monkey</i>').add_to(m)
+folium.Marker([-7.174177, 110.399010], popup='<i>Makam Syekh Penanggalan</i>').add_to(m)
 
 m
 
