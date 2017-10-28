@@ -82,6 +82,75 @@ folium.Marker([-7.130024, 110.389404], popup='<i>Watu Gunung</i>').add_to(m)
 folium.Marker([-7.129313, 110.384602], popup='<i>Kolam Renang Bukit Lereng Indah</i>').add_to(m)
 folium.Marker([-7.151226, 110.398894], popup='<i>Glory Face Monkey</i>').add_to(m)
 folium.Marker([-7.174177, 110.399010], popup='<i>Makam Syekh Penanggalan</i>').add_to(m)
-
+folium.RegularPolygonMarker(
+    [-7.012746, 110.417792],
+    popup='Indomaret Candi',
+    fill_color='#132b5e',
+    number_of_sides=3,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.012211, 110.416814],
+    popup='PT. Jasa Raharja Persero Jawa Tengah',
+    fill_color='#45647d',
+    number_of_sides=4,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.007835, 110.416380],
+    popup='Taman Diponegoro',
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.006216, 110.416874],
+    popup='Jonas Photo Studio Semarang',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.026276, 110.409497],
+    popup='Gor Jatidiri',
+    fill_color='#132b5e',
+    number_of_sides=3,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.019195, 110.409572],
+    popup='Stadion taruna Bhayangkara Akpol',
+    fill_color='#45647d',
+    number_of_sides=4,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.016587, 110.409771],
+    popup='Rumah sakit Bhayangkara Akpol',
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.014521, 110.404857],
+    popup='Oak Tree Emerald Semarang',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.012221, 110.406810],
+    popup='Kangen Water',
+    fill_color='#769d96',
+    number_of_sides=6,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.007888, 110.408859],
+    popup='PT PLN Persero Pusat Manajemen Konstruksi',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10qq
+    ).add_to(m)
 m
 
