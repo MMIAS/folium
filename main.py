@@ -82,6 +82,16 @@ folium.Marker([-7.130024, 110.389404], popup='<i>Watu Gunung</i>').add_to(m)
 folium.Marker([-7.129313, 110.384602], popup='<i>Kolam Renang Bukit Lereng Indah</i>').add_to(m)
 folium.Marker([-7.151226, 110.398894], popup='<i>Glory Face Monkey</i>').add_to(m)
 folium.Marker([-7.174177, 110.399010], popup='<i>Makam Syekh Penanggalan</i>').add_to(m)
+folium.Marker([-6.945110, 110.398248], popup='<i>Pantai Baruna</i>').add_to(m)
+folium.Marker([-6.948695, 110.410332], popup='<i>Pantai Cipta</i>').add_to(m)
+folium.Marker([-6.961821, 110.390419], popup='<i>prpp Gedung Merbabu</i>').add_to(m)
+folium.Marker([-6.960973, 110.386271], popup='<i>Grand Marakaca</i>').add_to(m)
+folium.Marker([-6.960171, 110.389507], popup='<i>Gedung Merapi</i>').add_to(m)
+folium.Marker([-6.957529, 110.392074], popup='<i>Marina Beach Karaoke & Lounge</i>').add_to(m)
+folium.Marker([-6.954527, 110.358967], popup='<i>Pantai Tirang</i>').add_to(m)
+folium.Marker([-6.958307, 110.360467], popup='<i>Mangrove Edu Park</i>').add_to(m)
+folium.Marker([-6.964427, 110.427933], popup='<i>Semarang Tawang</i>').add_to(m)
+folium.Marker([-6.961189, 110.435932], popup='<i>SPBU Pertamina</i>').add_to(m)
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
     popup='Indomaret Candi',
