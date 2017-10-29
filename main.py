@@ -92,6 +92,16 @@ folium.Marker([-6.954527, 110.358967], popup='<i>Pantai Tirang</i>').add_to(m)
 folium.Marker([-6.958307, 110.360467], popup='<i>Mangrove Edu Park</i>').add_to(m)
 folium.Marker([-6.964427, 110.427933], popup='<i>Semarang Tawang</i>').add_to(m)
 folium.Marker([-6.961189, 110.435932], popup='<i>SPBU Pertamina</i>').add_to(m)
+folium.Marker([-6.962435, 110.456930], popup='<i>HNR Optima</i>').add_to(m)
+folium.Marker([-6.961839, 110.456244], popup='<i>Talenta Electroplating</i>').add_to(m)
+folium.Marker([-6.961785, 110.456544], popup='<i>Indo Karya Glassco PD</i>').add_to(m)
+folium.Marker([-6.963042, 110.455890], popup='<i>Toko Pojok</i>').add_to(m)
+folium.Marker([-6.963053, 110.456255], popup='<i>PT.Anugrah Pradipta</i>').add_to(m)
+folium.Marker([-6.963053, 110.456480], popup='<i>Bina Aluminium</i>').add_to(m)
+folium.Marker([-6.962872, 100.456072], popup='<i>Adhi Putra</i>').add_to(m)
+folium.Marker([-6.963031, 110.456845], popup='<i>PT.Lola Mina</i>').add_to(m)
+folium.Marker([-6.963042, 110.457048], popup='<i>CV.Varia</i>').add_to(m)
+folium.Marker([-6.963010, 110.457295], popup='<i>Artha Niaga Transport</i>').add_to(m)
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
     popup='Indomaret Candi',
