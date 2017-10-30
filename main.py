@@ -254,3 +254,18 @@ folium.RegularPolygonMarker(
     ).add_to(m)
 m
 
+import folium
+map_osm = folium.Map(location=[-6.984886, 110.410179])
+map_osm = folium.Map(location=[-6.985120, 110.408709])
+map_osm = folium.Map(location=[-6.982894, 110.404535])
+map_osm = folium.Map(location=[-6.978538, 110.409609])
+map_osm = folium.Map(location=[-6.975322, 110.409952])
+map_osm = folium.Map(location=[-6.971925, 110.409866])
+map_osm = folium.Map(location=[-6.970626, 110.411035])
+map_osm = folium.Map(location=[-6.970296, 110.412859])
+map_osm = folium.Map(location=[-6.971968, 110.408417])
+map_osm = folium.Map(location=[-6.971105, 110.409790])
+
+map_osm
+
+
