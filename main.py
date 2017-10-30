@@ -11,6 +11,16 @@ m = folium.Map(
 
 tooltip = 'Click me!'
 
+folium.Marker([-7.021435, 110.460825], popup='<i>Universitas Muhammadiyah Semarang</i>').add_to(m)
+folium.Marker([-7.024314, 110.461330], popup='<i>UMMAH Aceh & Melayu Culinary</i>').add_to(m)
+folium.Marker([-7.024615, 110.467166], popup='<i>GREAT COFFEE 1987 SEMARANG</i>').add_to(m)
+folium.Marker([-7.027426, 110.470685], popup='<i>RUMAH INGGRIS GAK 15</i>').add_to(m)
+folium.Marker([-7.033836, 110.466683], popup='<i>RSUD K.R.M.T. Wongsonegoro Semarang</i>').add_to(m)
+folium.Marker([-7.021221, 110.463669], popup='<i>Waterpark Semawis</i>').add_to(m)
+folium.Marker([-7.020224, 110.465478], popup='<i>Garce Gultar Galerry</i>').add_to(m)
+folium.Marker([-7.032059, 110.456388], popup='<i>PLN Undiklat Semarang</i>').add_to(m)
+folium.Marker([-7.036866, 110.456578], popup='<i>Citra Grand Semarang</i>').add_to(m)
+folium.Marker([-7.030471, 110.455194], popup='<i>Pusdiklat PAlang Merah Indonesia Jawa Tengah</i>').add_to(m)
 folium.Marker([-6.971730, 110.424165], popup='<i>Pasar Johar</i>').add_to(m)
 folium.Marker([-6.993648, 110.407317], popup='<i>RSUP Dr. KARIADI</i>').add_to(m)
 folium.Marker([-6.955928, 110.460815], popup='<i>Sultan Agung Islamic hospital</i>').add_to(m)
