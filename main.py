@@ -112,6 +112,16 @@ folium.Marker([-6.962872, 100.456072], popup='<i>Adhi Putra</i>').add_to(m)
 folium.Marker([-6.963031, 110.456845], popup='<i>PT.Lola Mina</i>').add_to(m)
 folium.Marker([-6.963042, 110.457048], popup='<i>CV.Varia</i>').add_to(m)
 folium.Marker([-6.963010, 110.457295], popup='<i>Artha Niaga Transport</i>').add_to(m)
+folium.Marker([-6.971136, 110.436155], popup='<i>CV.Sari Nastiti</i>').add_to(m)
+folium.Marker([-7.105307, 110.408505], popup='<i>Toko Ratu</i>').add_to(m)
+folium.Marker([-7.103132, 110.406899], popup='<i>Wawik Ice n Coffee</i>').add_to(m)
+folium.Marker([-7.102299, 110.407639], popup='<i>PAUD Bakti</i>').add_to(m)
+folium.Marker([-7.102759, 110.407477], popup='<i>KB Bhakti</i>').add_to(m)
+folium.Marker([-6.971038, 110.434834], popup='<i>Anantha Salon</i>').add_to(m)
+folium.Marker([-6.970752, 110.435919], popup='<i>RM.Cik Gwat</i>').add_to(m)
+folium.Marker([-6.971347, 110.436010], popup='<i>Miracle Cell</i>').add_to(m)
+folium.Marker([-6.970526, 110.436071], popup='<i>SMPN 2 Penawangan</i>').add_to(m)
+folium.Marker([-6.971143, 110.436822], popup='<i>CV.Aneka Teknik Baru</i>').add_to(m)
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
     popup='Indomaret Candi',
