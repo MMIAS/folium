@@ -172,5 +172,75 @@ folium.RegularPolygonMarker(
     number_of_sides=8,
     radius=10
     ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.987817, 110.397154],
+    popup='Gereja Katholik Santa Teresia',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.988027, 110.396282],
+    popup='PT Lubrindo Suwardhana',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.989238, 110.395794],
+    popup='DERMA CLINIC',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.988507, 110.393613],
+    popup='Virgin Cake & Bakery',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.988379, 110.392371],
+    popup='Gedung Dekopin',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.988265, 110.392140],
+    popup='Jamkrindo Kanca Semarang',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.990645, 110.393572],
+    popup='Flochi Hostel',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.992900, 110.396289],
+    popup='Griya Paseban',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.995733, 110.398974],
+    popup='Kimia Farma. PT Persero',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.206718, 110.424440],
+    popup='Cimory On The Valley',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
 m
 
