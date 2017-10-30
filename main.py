@@ -262,6 +262,41 @@ folium.RegularPolygonMarker(
     number_of_sides=8,
     radius=10
     ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.957899, 110.385910],
+    popup='Istana Teknik PD',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.957899, 110.385910],
+    popup='Gosyen Badminton Courts',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.957899, 110.385910],
+    popup='Hotel Fovere Bandara Semarang',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-6.967195, 110.390409],
+    popup='CV. Indoreka Buana Mandiri',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
+folium.RegularPolygonMarker(
+    [-7.206718, 110.424440],
+    popup='Cimory On The Valley',
+    fill_color='#769d96',
+    number_of_sides=8,
+    radius=10
+    ).add_to(m)
 m
 
 
@@ -275,6 +310,16 @@ map_osm = folium.Map(location=[-6.970626, 110.411035])
 map_osm = folium.Map(location=[-6.970296, 110.412859])
 map_osm = folium.Map(location=[-6.971968, 110.408417])
 map_osm = folium.Map(location=[-6.971105, 110.409790])
+map_osm = folium.Map(location=[-6.961003, 110.386307])
+map_osm = folium.Map(location=[-6.961264, 110.386570])
+map_osm = folium.Map(location=[-6.960534, 110.386093])
+map_osm = folium.Map(location=[-6.961402, 110.385422])
+map_osm = folium.Map(location=[-6.960859, 110.385272])
+map_osm = folium.Map(location=[-6.960263, 110.386747])
+map_osm = folium.Map(location=[-6.960694, 110.386892])
+map_osm = folium.Map(location=[-6.960444, 110.387466])
+map_osm = folium.Map(location=[-6.957899, 110.385910])
+map_osm = folium.Map(location=[-6.958921, 110.386672])
 
 map_osm
 
