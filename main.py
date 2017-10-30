@@ -254,7 +254,7 @@ folium.RegularPolygonMarker(
     ).add_to(m)
 m
 
-import folium
+
 map_osm = folium.Map(location=[-6.984886, 110.410179])
 map_osm = folium.Map(location=[-6.985120, 110.408709])
 map_osm = folium.Map(location=[-6.982894, 110.404535])
