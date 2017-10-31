@@ -150,6 +150,14 @@ folium.Marker([-6.967243, 110.404374], popup='<i>Andalan Tehnik CV</i>').add_to(
 folium.Marker([-6.966863, 110.405120], popup='<i>Musholla Al Huda</i>').add_to(m)
 folium.Marker([-6.966051, 110.403953], popup='<i>Sido Sehat</i>').add_to(m)
 folium.Marker([-6.965241, 110.403526], popup='<i>Pulau Harapan</i>').add_to(m)
+folium.Marker([-6.963745, 110.401860], popup='<i>Anugerah Mandiri Trans. PT</i>').add_to(m)
+folium.Marker([-6.963875, 110.401710], popup='<i>Gereja Katolik Hati Kudus Yesus Semarang Tanah Mas</i>').add_to(m)
+folium.Marker([-6.962908, 110.401943], popup='<i>Super-Vit</i>').add_to(m)
+folium.Marker([-6.963358, 110.402394], popup='<i>Blessed Wholesale</i>').add_to(m)
+folium.Marker([-6.963042, 110.402667], popup='<i>Masjid Annur</i>').add_to(m)
+folium.Marker([-6.963159, 110.403281], popup='<i>Masjid An-Nur</i>').add_to(m)
+folium.Marker([-6.963164, 110.403665], popup='<i>Digini Studio</i>').add_to(m)
+folium.Marker([-6.963982, 110.403670], popup='<i>Rani Creation</i>').add_to(m)
 
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
