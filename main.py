@@ -127,6 +127,16 @@ folium.Marker([-6.997416, 110.401865], popup='<i>ATM Mandiri</i>').add_to(m)
 folium.Marker([-6.997480, 110.399655], popup='<i>Sekolah Dasar Islam Terpadu Al Qolam</i>').add_to(m)
 folium.Marker([-6.996527, 110.402171], popup='<i>Gudeg Rahayu</i>').add_to(m)
 folium.Marker([-6.966454, 110.402456], popup='<i>SMK Negeri 10 Semarang</i>').add_to(m)
+folium.Marker([-6.975793, 110.439845], popup='<i>Garuda</i>').add_to(m)
+folium.Marker([-6.975072, 110.439384], popup='<i>Kedai Maria Qua</i>').add_to(m)
+folium.Marker([-6.975602, 110.440352], popup='<i>Bakso Paka Alex</i>').add_to(m)
+folium.Marker([-6.975117, 110.439934], popup='<i>Lestari Private</i>').add_to(m)
+folium.Marker([-6.974640, 110.438896], popup='<i>Arvia Jaya Fashion</i>').add_to(m)
+folium.Marker([-6.974874, 110.438373], popup='<i>Klinik Bersalin Hertinawati</i>').add_to(m)
+folium.Marker([-6.975092, 110.438089], popup='<i>Fortuna Apotik</i>').add_to(m)
+folium.Marker([-6.975092, 110.439081], popup='<i>Qstin catering</i>').add_to(m)
+folium.Marker([-6.974996, 110.437845], popup='<i>Warteg Aero</i>').add_to(m)
+folium.Marker([-6.973435, 110.441660], popup='<i>Ikura Toko</i>').add_to(m)
 
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
