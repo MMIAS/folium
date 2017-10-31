@@ -122,6 +122,12 @@ folium.Marker([-6.970752, 110.435919], popup='<i>RM.Cik Gwat</i>').add_to(m)
 folium.Marker([-6.971347, 110.436010], popup='<i>Miracle Cell</i>').add_to(m)
 folium.Marker([-6.970526, 110.436071], popup='<i>SMPN 2 Penawangan</i>').add_to(m)
 folium.Marker([-6.971143, 110.436822], popup='<i>CV.Aneka Teknik Baru</i>').add_to(m)
+folium.Marker([-7.000297, 110.403791], popup='<i>Bank Mandiri Sampangan</i>').add_to(m)
+folium.Marker([-6.997416, 110.401865], popup='<i>ATM Mandiri</i>').add_to(m)
+folium.Marker([-6.997480, 110.399655], popup='<i>Sekolah Dasar Islam Terpadu Al Qolam</i>').add_to(m)
+folium.Marker([-6.996527, 110.402171], popup='<i>Gudeg Rahayu</i>').add_to(m)
+folium.Marker([-6.966454, 110.402456], popup='<i>SMK Negeri 10 Semarang</i>').add_to(m)
+
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
     popup='Indomaret Candi',
