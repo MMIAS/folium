@@ -2,14 +2,36 @@
 
 
 import folium
-
-m = folium.Map(
-    location=[-6.966667, 110.416667],
+def inisiasi(long,lat):
+	m = folium.Map(
+    location=[long,lat],
     zoom_start=12,
-    tiles='Stamen Terrain'
-)
+    tiles='Stamen Terrain')
+	return m
+	
+def hitam(long,lat):
+	c = folium.Map(
+    location=[long,lat],
+    zoom_start=12,
+    tiles='Stamen Toner')	
+	return c
 
+def masukkin(apa,ini):
+	d = folium.Map{
+	location=[apa,ini],
+	zoom_start=12,
+    tiles='Stamen Terrain')	
+	return d
+	
+def simpan(anu,gede):
+	anu.save(gede)
+
+d = masukkin(-6.966667, 110.416667)
+c = hitam(-6.966667, 110.416667)
+m = inisiasi(-6.966667, 110.416667)
 tooltip = 'Click me!'
+
+
 
 folium.Marker([-7.021435, 110.460825], popup='<i>Universitas Muhammadiyah Semarang</i>').add_to(m)
 folium.Marker([-7.024314, 110.461330], popup='<i>UMMAH Aceh & Melayu Culinary</i>').add_to(m)
@@ -327,14 +349,17 @@ folium.RegularPolygonMarker(
     number_of_sides=8,
     radius=10
     ).add_to(m)
-folium.RegularPolygonMarker(
-    [-7.206718, 110.424440],
-    popup='Cimory On The Valley',
-    fill_color='#769d96',
-    number_of_sides=8,
-    radius=10
-    ).add_to(m)
 m
+
+	
+folium.Circle(
+    radius=100,
+    location=[-7.002457, 110.387132],
+    popup='Bukit Wahid',
+    color='crimson',
+    fill=False,
+).add_to(c)
+c
 
 
 map_osm = folium.Map(location=[-6.984886, 110.410179])
@@ -359,5 +384,9 @@ map_osm = folium.Map(location=[-6.957899, 110.385910])
 map_osm = folium.Map(location=[-6.958921, 110.386672])
 
 map_osm
+
+simpan(m,'4.html')
+simpan(c,'5.html')
+simpan(d,'6.html')
 
 
