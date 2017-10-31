@@ -442,6 +442,56 @@ folium.Marker(
     popup='Polsek Semarang Selatan',
     icon=folium.Icon(icon='cloud')
 ).add_to(d)
+folium.Marker(
+    location=[-7.022648, 110.700036],
+    popup='Api Abadi Mrapen',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.020880, 110.701205],
+    popup='Polsek Kebonagung',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.023851, 110.709048],
+    popup='SMP N 1 Kebonagung',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.025885, 110.713425],
+    popup='Balai Desa Mijen',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.037728, 110.727680],
+    popup='PT. HARY BAROKAH',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.337385, 110.187593],
+    popup='Total Air Minum Temanggung Tirtamas',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.336695, 110.182046],
+    popup='Taman Makam Pahlawan Prayudha',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.338291, 110.184846],
+    popup='Temanggung',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.318208, 110.024637],
+    popup='Taman Wisata Alam Posong',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.044734, 110.726768],
+    popup='Balai Desa Karanggeneng',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
 d
 
 
