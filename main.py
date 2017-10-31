@@ -180,6 +180,26 @@ folium.Marker([-6.963042, 110.402667], popup='<i>Masjid Annur</i>').add_to(m)
 folium.Marker([-6.963159, 110.403281], popup='<i>Masjid An-Nur</i>').add_to(m)
 folium.Marker([-6.963164, 110.403665], popup='<i>Digini Studio</i>').add_to(m)
 folium.Marker([-6.963982, 110.403670], popup='<i>Rani Creation</i>').add_to(m)
+folium.Marker([-6.984886, 110.410179]).add_to(m)
+folium.Marker([-6.985120, 110.408709]).add_to(m)
+folium.Marker([-6.982894, 110.404535]).add_to(m)
+folium.Marker([-6.978538, 110.409609]).add_to(m)
+folium.Marker([-6.975322, 110.409952]).add_to(m)
+folium.Marker([-6.971925, 110.409866]).add_to(m)
+folium.Marker([-6.970626, 110.411035]).add_to(m)
+folium.Marker([-6.970296, 110.412859]).add_to(m)
+folium.Marker([-6.971968, 110.408417]).add_to(m)
+folium.Marker([-6.971105, 110.409790]).add_to(m)
+folium.Marker([-6.961003, 110.386307]).add_to(m)
+folium.Marker([-6.961264, 110.386570]).add_to(m)
+folium.Marker([-6.960534, 110.386093]).add_to(m)
+folium.Marker([-6.961402, 110.385422]).add_to(m)
+folium.Marker([-6.960859, 110.385272]).add_to(m)
+folium.Marker([-6.960263, 110.386747]).add_to(m)
+folium.Marker([-6.960694, 110.386892]).add_to(m)
+folium.Marker([-6.960444, 110.387466]).add_to(m)
+folium.Marker([-6.957899, 110.385910]).add_to(m)
+folium.Marker([-6.958921, 110.386672]).add_to(m)
 
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
@@ -360,30 +380,6 @@ folium.Circle(
     fill=False,
 ).add_to(c)
 c
-
-
-map_osm = folium.Map(location=[-6.984886, 110.410179])
-map_osm = folium.Map(location=[-6.985120, 110.408709])
-map_osm = folium.Map(location=[-6.982894, 110.404535])
-map_osm = folium.Map(location=[-6.978538, 110.409609])
-map_osm = folium.Map(location=[-6.975322, 110.409952])
-map_osm = folium.Map(location=[-6.971925, 110.409866])
-map_osm = folium.Map(location=[-6.970626, 110.411035])
-map_osm = folium.Map(location=[-6.970296, 110.412859])
-map_osm = folium.Map(location=[-6.971968, 110.408417])
-map_osm = folium.Map(location=[-6.971105, 110.409790])
-map_osm = folium.Map(location=[-6.961003, 110.386307])
-map_osm = folium.Map(location=[-6.961264, 110.386570])
-map_osm = folium.Map(location=[-6.960534, 110.386093])
-map_osm = folium.Map(location=[-6.961402, 110.385422])
-map_osm = folium.Map(location=[-6.960859, 110.385272])
-map_osm = folium.Map(location=[-6.960263, 110.386747])
-map_osm = folium.Map(location=[-6.960694, 110.386892])
-map_osm = folium.Map(location=[-6.960444, 110.387466])
-map_osm = folium.Map(location=[-6.957899, 110.385910])
-map_osm = folium.Map(location=[-6.958921, 110.386672])
-
-map_osm
 
 simpan(m,'4.html')
 simpan(c,'5.html')
