@@ -17,7 +17,7 @@ def hitam(long,lat):
 	return c
 
 def masukkin(apa,ini):
-	d = folium.Map{
+	d = folium.Map(
 	location=[apa,ini],
 	zoom_start=12,
     tiles='Stamen Terrain')	
@@ -391,8 +391,60 @@ folium.Circle(
 ).add_to(c)
 c
 
+
+folium.Marker(
+    location=[-7.010464, 110.441225],
+    popup='Pasar Mrican',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.009991, 110.441950],
+    popup='Bakso Beranak Mekar Sari',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.010449, 110.441955],
+    popup='Pondok Bakmi Ayu Bu Tarno',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.011109, 110.442733],
+    popup='Gudang Gypsum',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.011285, 110.442390],
+    popup='Asrama TNI-AD Mrican',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.011258, 110.443624],
+    popup='Fingerspot',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.011559, 110.444750],
+    popup='Polsek Banyumanik',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.010753, 110.446082],
+    popup='Baby Shop J N C',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.006419, 110.446457],
+    popup='Kantor Urusan Agama',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+folium.Marker(
+    location=[-7.006254, 110.445886],
+    popup='Polsek Semarang Selatan',
+    icon=folium.Icon(icon='cloud')
+).add_to(d)
+d
+
+
 simpan(m,'4.html')
 simpan(c,'5.html')
 simpan(d,'6.html')
-
-
