@@ -256,6 +256,9 @@ folium.Marker([-7.101048, 110.408036], popup='<i>Stokis Milagros Semarang | WA.0
 folium.Marker([-7.100763, 110.408079], popup='<i> Pastori Gereja Pantekosta Di Indonesia Kalipepe Raya</i>').add_to(m)
 folium.Marker([-7.100694, 110.407916], popup='<i> Gule Kepala Manyung Bu Tri Pudakpayung Banyumanik Semarang</i>').add_to(m)
 folium.Marker([-7.100444, 110.407532], popup='<i> Mie Ayam Jamur & Tahu Campur</i>').add_to(m)
+folium.Marker([-7.100069, 110.409007], popup='<i> Apotek K-24 Pudak Payung Semarang</i>').add_to(m)
+folium.Marker([-7.099954, 110.409112], popup='<i> Pak Jono Warung Sate</i>').add_to(m)
+folium.Marker([-7.099760, 110.408871], popup='<i> Indomaret SPBU Pudak Payung</i>').add_to(m)
 
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
