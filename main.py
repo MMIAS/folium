@@ -240,6 +240,18 @@ folium.Marker([-6.960694, 110.386892]).add_to(m)
 folium.Marker([-6.960444, 110.387466]).add_to(m)
 folium.Marker([-6.957899, 110.385910]).add_to(m)
 folium.Marker([-6.958921, 110.386672]).add_to(m)
+folium.Marker([-7.105283, 110.410646], popup='<i> Bromindo Mekar Mitra PT</i>').add_to(m)
+folium.Marker([-7.104048, 110.409777], popup='<i> Balai Pelatihan Transmigrasi Dan Penyandang Cacat Jateng PT</i>').add_to(m)
+folium.Marker([7.102664, 110.409273], popup='<i> TB.Handayani</i>').add_to(m)
+folium.Marker([-7.103364, 110.408559], popup='<i> Warung Pujasera</i>').add_to(m)
+folium.Marker([-7.103121, 110.408339], popup='<i> Agenpos Pudak Payung PT</i>').add_to(m)
+folium.Marker([7.102664, 110.409273], popup='<i> Alfamart</i>').add_to(m)
+folium.Marker([-7.102411, 110.408930], popup='<i> RM Padang Kartika Minang</i>').add_to(m)
+folium.Marker([-7.102275, 110.408924], popup='<i> Mie Dhuk Dhuk Ayam Kampung Max Nyoos Mas Santoso</i>').add_to(m)
+folium.Marker([-7.102150, 110.408887], popup='<i> Rc devi</i>').add_to(m)
+folium.Marker([-7.101945, 110.408913], popup='<i> Mie Ayam Pak Min</i>').add_to(m)
+folium.Marker([-7.101764, 110.409174], popup='<i> Bebek Goreng "GITA"</i>').add_to(m)
+folium.Marker([-7.101642, 110.408879], popup='<i> Soto Ayam Khas Semarang Pak Man</i>').add_to(m)
 
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
