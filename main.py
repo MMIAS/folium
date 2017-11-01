@@ -252,6 +252,10 @@ folium.Marker([-7.102150, 110.408887], popup='<i> Rc devi</i>').add_to(m)
 folium.Marker([-7.101945, 110.408913], popup='<i> Mie Ayam Pak Min</i>').add_to(m)
 folium.Marker([-7.101764, 110.409174], popup='<i> Bebek Goreng "GITA"</i>').add_to(m)
 folium.Marker([-7.101642, 110.408879], popup='<i> Soto Ayam Khas Semarang Pak Man</i>').add_to(m)
+folium.Marker([-7.101048, 110.408036], popup='<i>Stokis Milagros Semarang | WA.0822-2783-5601</i>').add_to(m)
+folium.Marker([-7.100763, 110.408079], popup='<i> Pastori Gereja Pantekosta Di Indonesia Kalipepe Raya</i>').add_to(m)
+folium.Marker([-7.100694, 110.407916], popup='<i> Gule Kepala Manyung Bu Tri Pudakpayung Banyumanik Semarang</i>').add_to(m)
+folium.Marker([-7.100444, 110.407532], popup='<i> Mie Ayam Jamur & Tahu Campur</i>').add_to(m)
 
 folium.RegularPolygonMarker(
     [-7.012746, 110.417792],
