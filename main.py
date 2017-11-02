@@ -32,7 +32,16 @@ m = inisiasi(-6.966667, 110.416667)
 tooltip = 'Click me!'
 
 
-
+folium.Marker([-6.953184, 110.480072], popup='<i>UPTD Pendidikan Kecamatan Genuk</i>').add_to(m)
+folium.Marker([-6.952343, 110.479718], popup='<i>Pasar Genuk</i>').add_to(m)
+folium.Marker([-6.954513, 110.481343], popup='<i>Terminal Terboyo</i>').add_to(m)
+folium.Marker([-6.954251, 110.482052], popup='<i>Kantor Kelurahan Banjar Dowo</i>').add_to(m)
+folium.Marker([-6.953594, 110.480906], popup='<i>Toko Sulastri</i>').add_to(m)
+folium.Marker([-6.953722, 110.481990], popup='<i>Toko Aisyah</i>').add_to(m)
+folium.Marker([-6.953735, 110.482776], popup='<i>One Shop</i>').add_to(m)
+folium.Marker([-6.954495, 110.480144], popup='<i>Indomaret</i>').add_to(m)
+folium.Marker([-6.960013, 110.475370], popup='<i>PT. Alfatama Inticipta</i>').add_to(m)
+folium.Marker([-6.950244, 110.464758], popup='<i>Nayati</i>').add_to(m)
 folium.Marker([-7.021435, 110.460825], popup='<i>Universitas Muhammadiyah Semarang</i>').add_to(m)
 folium.Marker([-7.024314, 110.461330], popup='<i>UMMAH Aceh & Melayu Culinary</i>').add_to(m)
 folium.Marker([-7.024615, 110.467166], popup='<i>GREAT COFFEE 1987 SEMARANG</i>').add_to(m)
